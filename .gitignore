@@ -1,0 +1,7 @@
+# Data
+data/*
+
+# Notebook checkpoints and bytecode
+*ipynb_checkpoints*
+*.pyc
+*_pycache_*
