@@ -1,5 +1,6 @@
 # Data
 data/*
+plagiarism_data/*
 
 # Notebook checkpoints and bytecode
 *ipynb_checkpoints*
