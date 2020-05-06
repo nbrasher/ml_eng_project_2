@@ -6,3 +6,7 @@ plagiarism_data/*
 *ipynb_checkpoints*
 *.pyc
 *_pycache_*
+1_Data_Exploration.ipynb
+
+# Unneeded folders
+source_pytorch/*
